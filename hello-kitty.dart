@@ -1,3 +1,3 @@
 main () {
-  print("Hello Kitty");
+  print("Hello Kitty!");
 }
